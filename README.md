@@ -33,8 +33,17 @@ Currently these are the technologies that I know most:
   </p></div>
   
 ##
+  
+### :snake:  Commit Snake
 
-### :eyes: Profile Views
+<div align="center">
+  
+  ![Snake animation](https://github.com/vmcarmo/vmcarmo/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+##
+  ### :eyes: Profile Views
 
 <p align="center">
 
@@ -44,5 +53,3 @@ Currently these are the technologies that I know most:
  </a>
 </p>
   
-  ![Snake animation](https://github.com/vmcarmo/vmcarmo/blob/output/github-contribution-grid-snake.svg)
-</div>
