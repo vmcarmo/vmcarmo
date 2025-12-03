@@ -39,7 +39,7 @@ Currently these are the technologies that I know most:
 
 <div align="center">
   
-  ![Snake animation](https://github.com/vmcarmo/vmcarmo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vmcarmo/vmcarmo/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
