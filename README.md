@@ -2,7 +2,7 @@
 
 ### :book: About Me
 
-Hi, I'm Vinicius Carmo, a Back-end Developer 🚀 from Brazil.
+Hi, I'm Vinicius Carmo, a FullStack Developer and Devops 🚀 from Brazil.
 
 <div align="center">
   <a href="https://github.com/vmcarmo">
